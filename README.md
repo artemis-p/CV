@@ -29,17 +29,20 @@ Consider skills relevent to software development. Then consider your best skills
 
 
 ## Education
-Technological Institute of Western Macedonia, Greece (2006 - 2010)
+
+#### Makers Academy (Jan '20 - May '20)
+Highly selective 16-week intensive coding bootcamp, focusing on:
+- Agile methodologies and XP values
+- Object-oriented design
+- Test driven development (TDD) and Behaviour driven development (BDD)
+- Model-view-controller design patterns
+- Pair programming and teamwork
+- Independent problem - solving
+
+#### Technological Institute of Western Macedonia, Greece (2006 - 2010)
 - BSc. Business Administration
 - 2:1
 - Graduated 3rd out of 120 students in my cohort
-
-
-#### Makers Academy (Jan '20 - May '20)
-
-- TDD
-- Ruby
-- RSpec
 
 
 ## Experience
