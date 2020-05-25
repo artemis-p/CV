@@ -14,7 +14,7 @@ I am currently looking for junior web/software development opportunities to add 
 |MakersBnB|             |            |
 |Bank Tech Test|             |            |
 |Tetris   |             |            |
-|Thermostat|            |            |
+|DateSpot |            |            |
 
 
 ## Skills
@@ -102,5 +102,6 @@ Highly selective 16-week intensive coding bootcamp, focusing on:
 
 
 ## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
+- Crocheting & Knitting: Counting stitches and following patterns keeps me focused on the present moment. Throughout the years I managed to improve my concentration, patience, memory skills and creativity. During my last employment with Sojern, I formed a lunch-and-learn team of colleagues to crochet and discuss on the benefits of practising mindfulness through crocheting on stressful working days.
+- Fitness: I am a strong believer that physical activity should be a daily addition to everyone's lives, as it can boost our productivity and good mood in the workplace. My favourite classes are spinning and bodypump.
+- Cooking & Baking: Following a recipe and keep practising on it, as well making additions once you are comfortable with it, was what made me love programming. You have to have persistence, keep practising and start making additions once your feel more comfortable with it!
