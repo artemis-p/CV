@@ -6,24 +6,27 @@ My passion for communication over cross-functional and physical/virtual teams, m
 
 I am currently looking for junior web/software development opportunities to add business value through my unique career path. 
 
+
+## Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+|MakersBnB|             |            |
+|Bank Tech Test|             |            |
+|Tetris   |             |            |
+|Thermostat|            |            |
+
+
 ## Skills
+
+- __Team player__ -
+- __Communication & Empathy__ - 
+- __Eager to learn and grow__ - 
+- __Flexible & Adaptable__ -  
+- __Attention to detail__ -
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 Technological Institute of Western Macedonia, Greece (2006 - 2010)
