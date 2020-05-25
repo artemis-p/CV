@@ -41,28 +41,62 @@ Technological Institute of Western Macedonia, Greece (2006 - 2010)
 - Ruby
 - RSpec
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
 
 ## Experience
 
 **Sojern, Inc** (Apr '18 to Aug '19)    
-*Sales Operations Specialist*  
-- Any experience relevent to software development???
-Data management
-•	Monitored and pro-actively maintained the integrity of data in the Salesforce database
-•	Closely worked with Sales to update sellers CRM pipeline and ensure accurate entries
-Pre-sales
-•	Researched potential leads in the UK market across many industries
-•	Created several e-mail campaigns to prospect new customers and initiate sales for the UK
-•	Achieved 15% client engagement on pre-event messages, 41% client engagement on post-event messages and 12 client meetings that were handed over to Sales
-Stakeholder management
-•	Established positive communication channels with stakeholders across Sales, Account Management, Marketing, Product, Accounting and Ad Operations in the EMEA region
+*Sales Operations Specialist*
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
+*__Data management__*<br>
+- Monitored and pro-actively maintained the integrity of data in the Salesforce database
+- Closely worked with Sales to update sellers CRM pipeline and ensure accurate entries
+
+*__Pre-sales__*<br>
+- Researched potential leads in the UK market across many industries
+- Created several e-mail campaigns to prospect new customers and initiate sales for the UK
+- Achieved 15% client engagement on pre-event messages, 41% client engagement on post-event messages and 12 client meetings that were handed over to Sales<br>
+
+*__Stakeholder management__*<br>
+- Established positive communication channels with stakeholders across Sales, Account Management, Marketing, Product, Accounting and Ad Operations in the EMEA region<br>
+<br>
+
+**McGraw-Hill Education** (Nov '17 to Dec '17)   
+*Pricing Executive*  
+
+- Performed competitor analysis for a learning digital platform to ensure that McGraw Hill pricing retained the commercial advantage and was the most beneficiary for students
+- Conducted an environmental analysis of macroeconomic data for countries across 5 regions that was utilised to set the pricing and marketing strategy for 2018
+- Worked in a small, global, pricing team with members from London and Singapore
+<br>
+
+**ACCA (Association of Charted Accountants)** (Nov '16 to Aug '17)   
+*Pricing & Promotions Executive* 
+
+-  Implemented the day-to-day ACCA pricing and promotional strategy to ensure educational products offered were in line with student needs
+- Designed and delivered commercial pricing proposals for markets, in line with the financial and operational constraints
+- Provided support over the phone and by email to markets across 5 world regions
+- Worked in international, cross-functional or virtual teams to design new pricing structures
+<br>
+
+**Travco Corporation Ltd** (Aug '14 to Sep '16)   
+*Strategic Pricing Executive* 
+
+- Adjusting prices and margins against competition to push sales and maximize profits
+- Analysing pricing strategy effectiveness based on weekly/monthly/annual growth statistics
+- Analysing annual performance of collaborating travel
+- Working closely with contractors and sales department to increase sales volume and further promote the most competitive and exclusive offers
+- Training new team members and acting as a resource for all colleagues
+- Implemented a new method of organizing the most important weekly report, that minimized delivery time by 25% and boosted team productivity
+<br>
+
+**Travco Corporation Ltd** (Mar '14 to May '14)   
+*Business Analysis Executive* 
+
+- Performing Business-to-Business and Business-to-Customer reports
+- Adjusting hotel rates and pricing policies to be more competitive with the best margins
+- Analysis of booking reports and observing trends
+- Loading new prices onto the online system with accuracy and speed
+<br>
+
 
 ## Hobbies
 
