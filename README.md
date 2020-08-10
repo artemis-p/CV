@@ -46,18 +46,44 @@ Highly selective 16-week intensive coding bootcamp, focusing on:
 
 **Sojern, Inc** (Apr '18 to Aug '19)    
 *Sales Operations Specialist*
+- Monitored and pro-actively maintained the integrity of data in the
+Salesforce database by working closely with the Sales team
+- Researched potential leads in the UK market and created several e-mail
+campaigns to prospect new customers and initiate sales for the UK
+- Achieved 15% client engagement on pre-event messages, 41% client
+engagement on post-event messages and 12 client meetings that were
+handed over to Sales
+- Established positive communication channels with stakeholders across
+Sales, Account Management, Marketing, Product, Accounting and Ad
+Operations in the EMEA region
 
 **McGraw-Hill Education** (Nov '17 to Dec '17)   
 *Pricing Executive*  
+- Performed competitor analysis for the in-house e-learning platform to
+ensure the highest customer satisfaction and leading market position
+- Analysed macroeconomic data for countries across 5 regions that was
+utilised to set the pricing and marketing strategy for 2018
 
 **ACCA (Association of Charted Accountants)** (Nov '16 to Aug '17)   
 *Pricing & Promotions Executive* 
+- Implemented the day-to-day pricing and promotional strategy
+- Designed and delivered commercial pricing proposals for all markets
+- Supported stakeholders across all markets
 
 **Travco Corporation Ltd** (Aug '14 to Sep '16)   
 *Strategic Pricing Executive* 
+- Adjusted prices and margins against competition to drive sales
+- Analysed pricing strategy effectiveness based on weekly/monthly/annual
+growth statistics
+- Worked closely with key stakeholders to increase sales volume and set
+promotions
 
 **Travco Corporation Ltd** (Mar '14 to May '14)   
 *Business Analysis Executive* 
+- Produced Business-to-Business and Business-to-Customer sales
+performance reports
+- Monitored and implemented pricing strategies in the online system to
+increase the competitive position of the company
 
 ## Hobbies
 - Crocheting & Knitting: Counting stitches and following patterns keeps me focused on the present moment. Throughout the years I managed to improve my concentration, patience, memory skills and creativity. During my last employment with Sojern, I formed a lunch-and-learn team of colleagues to crochet and discuss on the benefits of practising mindfulness through crocheting on stressful working days.
