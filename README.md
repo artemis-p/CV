@@ -1,11 +1,10 @@
 ## Artemis Papanikolaou
 
-After 6 years of working in various commercial roles, I am excited to move into web and software development.
+A Junior Software Developer and recent Maker's Academy graduate, with multiple years of experience in commercial roles.
 
-My passion for communication over cross-functional and physical/virtual teams, my customer-first thinking and my curiosity to always learn have been fused over the past couple of months with web/software development skills and algorithmic thinking. 
+My passion for communication over cross-functional and physical/virtual teams, my customer-first thinking and my curiosity to always learn have been fused over the past couple of months with software development skills and agile ways of working. 
 
-I am currently looking for junior web/software development opportunities to add business value through my unique career path. 
-
+I am excited about projects that can change people's lives. 
 
 ## Projects
 
@@ -15,6 +14,7 @@ I am currently looking for junior web/software development opportunities to add 
 |[Bank_Tech_Test](https://github.com/artemis-p/bank_tech_test)|A pracice tech test to demonstrate my ability to use OOP and BDD|Ruby, Rspec            |
 |[Tetris](https://github.com/artemis-p/Tetris_game_JS)|An individual challenge to build a simple Tetris game, during my JS learning| Javascript, HTML/CSS|
 |[DateSpot](https://github.com/artemis-p/travel-final-project)|My final group project, built in less than two weeks time. A date curator application that provides you with the best spots to go on a date|Rails, React, Postgres, Postgres, CSS|
+[Food recipe app](https://github.com/artemis-p/Food_recipe_app_React)|An individual challenge to build a food recipe app, to expand my knowledge in React and APIs.|React, CSS, Edamam API, Github pages|
 
 
 ## Skills
