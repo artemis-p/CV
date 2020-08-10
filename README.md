@@ -1,11 +1,10 @@
 ## Artemis Papanikolaou
 
-After 6 years of working in various commercial roles, I am excited to move into web and software development.
+A Junior Software Developer and recent Maker's Academy graduate, with multiple years of experience in commercial roles.
 
-My passion for communication over cross-functional and physical/virtual teams, my customer-first thinking and my curiosity to always learn have been fused over the past couple of months with web/software development skills and algorithmic thinking. 
+My passion for communication over cross-functional and physical/virtual teams, my customer-first thinking and my curiosity to always learn have been fused over the past couple of months with software development skills and agile ways of working. 
 
-I am currently looking for junior web/software development opportunihttps://github.com/artemis-p/Food_recipe_app_Reactties to add business value through my unique career path. 
-
+I am excited about projects that can change people's lives. 
 
 ## Projects
 
