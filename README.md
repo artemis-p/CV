@@ -95,6 +95,7 @@ performance reports
 increase the competitive position of the company
 
 ## Hobbies
+- Coding/Learning new skills - I started my coding journey by learning how to write "Hello World" in plain HTML and have not stopped coding and learning new things since then.
 - Crocheting & Knitting: Counting stitches and following patterns keeps me focused on the present moment. Throughout the years I managed to improve my concentration, patience, memory skills and creativity. During my last employment with Sojern, I formed a lunch-and-learn team of colleagues to crochet and discuss on the benefits of practising mindfulness through crocheting on stressful working days.
 - Fitness: I am a strong believer that physical activity should be a daily addition to everyone's lives, as it can boost our productivity and good mood in the workplace. My favourite classes are spinning and bodypump.
 - Cooking & Baking: This is one of the main reasons I loved coding. Both cooking and coding, require persistence, practise and to be flexible on your approach.
