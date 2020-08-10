@@ -4,7 +4,7 @@ A Junior Software Developer and recent Maker's Academy graduate, with multiple y
 
 My passion for communication over cross-functional and physical/virtual teams, my customer-first thinking and my curiosity to always learn have been fused over the past couple of months with software development skills and agile ways of working. 
 
-I am excited about projects that can change people's lives. 
+I am an energetic and ambitious person, eager to learn how to build robust scalable solutions that can change people's lives.
 
 ## Projects
 
