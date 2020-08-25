@@ -15,7 +15,7 @@ I am currently coding in Ruby, Ruby on Rails and JavaScript. Eager to learn how 
 |[Tetris](https://github.com/artemis-p/Tetris_game_JS)|An individual challenge to build a simple Tetris game, during my JS learning| Javascript, HTML/CSS| WIP
 |[DateSpot](https://github.com/artemis-p/travel-final-project)|My final group project, built in less than two weeks time. A date curator application that provides you with the best spots to go on a date|Rails, React, Postgres, Postgres, CSS| Complete
 [Rock, Paper, Scissors, Lizard, Spock](https://github.com/artemis-p/Rock_Paper_Scissor)| An individual challenge to demonstrate my knowledge in semantic HTML, CSS and JavaScript| HTML, CSS, JavaScript| WIP
-[Food recipe app](https://github.com/artemis-p/Food_recipe_app_React)|An individual challenge to build a food recipe app, to expand my knowledge in React and APIs.|React, CSS, Edamam API, Github pages| Complete
+[Food recipe app](https://github.com/artemis-p/Food_recipe_app_React)| An individual challenge to build a food recipe app, to expand my knowledge in React and APIs.|React, CSS, Edamam API, Github pages| Complete - API is currently not working
 
 
 ## Skills
