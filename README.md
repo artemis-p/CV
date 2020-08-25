@@ -19,19 +19,13 @@ I am currently coding in Ruby, Ruby on Rails and JavaScript. Eager to learn how 
 
 ## Skills
 
-- __Team player__ -  Being a strong
-team player and a people person has always been my greatest trait. My previous experience has helped me
-understand the importance and strength of working in teams and communicating efficiently with others.
-During my previous employment with Sojern, I introduced weekly catch-ups with team members from the
-US, UAE and UK to help organise the communication between my co-workers to enhance our productivity
-and knowledge sharing as a team. Moreover, during our final project at Makers, after having a bad 2-day
-sprint, and not accomplishing what was expected, everyone was unhappy and discouraged. I decided that we
-shouldn’t close our day like this, so I recommended spending half an hour, after our retro, and give some
-appreciations to each other. The whole effort brought back laughter, jokes and a general feeling of optimism
-in the team, giving us the strength to start afresh and work even harder the next morning. 
-- __Training/Mentorship__ - I find training others highly satisfying and beneficial for both parties. Throughout my previous roles, I trained several members of my team, as well as senior members of cross-functional teams. During my last employment, I trained and mentored two new members of my team, so they were up-to-speed within the first two months of their hiring; one of them was located in Dubai, which made things trickier due to different time zones, but we managed to overcome the difficulties and established a great communication and support system.
-- __Flexible & Adaptable__ - I embrace change and I adapt very quickly. In many occassions in the past, the work environment and my responsibilities changed, but I always managed to handle successfully the extra workload and tolerate the extra time pressure. 
-- __Detail-oriented__ - I excel at noticing things and details that other's usually, don't. This trait has proved invaluable throughout my past work experience, as it allowed for spotting mistakes early on various processes and ultimately prevented costly mistakes. It also, helped me spotting irregularities in my code, while debugging projects at Makers.  
+- __Team player__ -  Being a strong team player and a people person has always been one of my best traits. My previous experience has helped me understand the importance and strength of working in teams and communicating efficiently with others. While working with Sojern, I introduced weekly catch-ups with team members from the US, UAE and UK to help organise the communication between my co-workers to enhance our productivity and knowledge sharing as a team. Moreover, during our final project at Makers, after having an unproductive 2-day sprint, and not reaching the expected result, everyone was unhappy and discouraged. I decided that we shouldn’t close our day like this, so I recommended spending half an hour, after our retro, and give some appreciations to each other. The whole effort brought back laughter, jokes and a general feeling of optimism in the team, giving us the strength to start anew and work even harder the next morning.
+
+- __Training/Mentorship__ - I find training others highly satisfying and beneficial for both parties. Throughout my previous roles, I acted as a mentor to several new members of my team. A recent example was from when I was working with Sojern, where I trained and mentored two new members of my team, so they were up-to-speed within the first two months of their hiring. One of the two members was in Dubai, thus arranging regular meetings and virtual catch-ups was vital, to learn together and get to know one another.
+
+- __Flexible & Adaptable__ - I embrace change, and I adapt very quickly. In many occasions in the past, the work environment and my responsibilities changed, but I always managed to handle the extra workload and tolerate the extra time pressure, successfully. Moving from Greece to the UK was a significant change. Within the first six months, I had already made new friends and was up-to-speed with the tasks in my new job. 
+
+- __Detail-oriented__ -  I excel at noticing things and details that other's usually, don't. This trait has proved invaluable throughout my past work experience, as it allowed for spotting mistakes early on various processes and ultimately prevented costly mistakes. It also, helped me noticing irregularities in my code while debugging projects at Makers.
 
 
 ## Education
