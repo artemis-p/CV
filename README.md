@@ -14,7 +14,6 @@ I am currently coding in Ruby, Ruby on Rails and JavaScript. Eager to learn how 
 [Rock, Paper, Scissors, Lizard, Spock](https://github.com/artemis-p/Rock_Paper_Scissor)| An individual challenge to demonstrate my knowledge in semantic HTML, CSS and JavaScript| HTML, CSS, JavaScript|
 
 <br>
-<br>
 
 
 ### **_Makers Projects_**
