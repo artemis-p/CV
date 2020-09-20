@@ -10,8 +10,8 @@ I am currently coding in Ruby, Ruby on Rails and JavaScript. Eager to learn how 
 ### **_Projects currently working on_**
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-|[Tetris](https://github.com/artemis-p/Tetris_game_JS)|An individual challenge to build a simple Tetris game, during my JS learning| Javascript, HTML/CSS|
 [Rock, Paper, Scissors, Lizard, Spock](https://github.com/artemis-p/Rock_Paper_Scissor)| An individual challenge to demonstrate my knowledge in semantic HTML, CSS and JavaScript| HTML, CSS, JavaScript|
+|[Tetris](https://github.com/artemis-p/Tetris_game_JS)|An individual challenge to build a simple Tetris game, during my JS learning| Javascript, HTML/CSS|
 
 <br>
 
