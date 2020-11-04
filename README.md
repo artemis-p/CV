@@ -1,10 +1,10 @@
 ## Artemis Papanikolaou
 
-I am an energetic and ambitious Junior Software Developer and recent Makers Academy graduate. Before Makers, I spent more than eight years in pricing and operational roles, which gave me invaluable experience in communicating over cross-functional and physical/virtual teams and a customer-first mindset.
+A Junior Software Developer and recent Makers Academy graduate. I am passionate about building accessible UIs and love how code that I type can have a real impact on people’s lives.
 
-I turned into coding as I am a results-driven person and grow when working within forward-thinking teams.
+Before Makers, I spent 8+ years working in Pricing and Operations roles in various industries, which gave me invaluable experience in communicating over cross functional and physical/virtual teams and a customer-first mindset. 
 
-I am currently coding in Ruby, Ruby on Rails and JavaScript. Eager to learn how to build robust, scalable solutions that can change people's lives.
+My greatest traits are that I am a people person and bring empathy and inclusivity in every working environment. My goal is to build a career in software development, where I can build exciting things and keep on developing.
 
 ## Projects
 ### **_Projects currently working on_**
