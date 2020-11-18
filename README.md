@@ -36,7 +36,7 @@ I add value by being a people person and bring empathy and inclusivity in every 
 
 - __Flexible & Adaptable__ - I embrace change, and I adapt very quickly. In many occasions in the past, the work environment and my responsibilities changed, but I always managed to handle the extra workload and tolerate the extra time pressure, successfully. Moving from Greece to the UK was a significant change. Within the first six months, I had already made new friends and was up-to-speed with the tasks in my new job. 
 
-- __Detail-oriented__ -  I excel at noticing things and details that other's usually, don't. This trait has proved invaluable throughout my past work experience, as it allowed for spotting mistakes early on various processes and ultimately prevented costly mistakes. It also, helped me noticing irregularities in my code while debugging projects at Makers.
+- __Detail-oriented__ -  I excel at noticing things and details that other's usually, don't. This trait has proven to be invaluable throughout my past work experience, as it allowed for spotting mistakes early on various processes and ultimately prevented costly mistakes. It also, helped me noticing irregularities in my code while debugging projects at Makers.
 
 
 ## Education
