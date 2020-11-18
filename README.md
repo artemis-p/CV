@@ -11,6 +11,7 @@ I add value by being a people person and bring empathy and inclusivity in every 
 ### **_Projects currently working on_**
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+[Battleship v.2](https://github.com/artemis-p/JS-Battleship_v.2)|A new version of the Battleship game built with a MVC pattern|JavaScript, HTML, CSS|
 [Battleship](https://github.com/artemis-p/JS-Battleship)| A very simple game built in vanilla JS by using functions, alerts, 'while' loops and if/else statements| JavaScript
 [Rock, Paper, Scissors, Lizard, Spock](https://github.com/artemis-p/Rock_Paper_Scissor)| An individual challenge to demonstrate my knowledge in semantic HTML, CSS and JavaScript| HTML, CSS, JavaScript|
 |[Tetris](https://github.com/artemis-p/Tetris_game_JS)|An individual challenge to build a simple Tetris game, during my JS learning| Javascript, HTML/CSS|
