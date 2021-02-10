@@ -23,8 +23,8 @@ I add value by being a people person and bring empathy and inclusivity in every 
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-|[DateSpot](https://github.com/artemis-p/travel-final-project)|My final group project, built in less than two weeks time. A date curator application that provides you with the best spots to go on a date|Rails, React, Postgres, Postgres, CSS|
-|[Bank_Tech_Test](https://github.com/artemis-p/bank_tech_test)|A pracice tech test to demonstrate my ability to use OOP and BDD|Ruby, Rspec            |
+|[DateSpot](https://github.com/artemis-p/travel-final-project)|My final group project, built in less than two weeks time. A date curator application that provides you with the best spots to go on a date|Rails, React, Postgres, CSS|
+|[Bank_Tech_Test](https://github.com/artemis-p/bank_tech_test)|A practice tech test to demonstrate my ability to use OOP and BDD|Ruby, Rspec            |
 |[Acebook](https://github.com/artemis-p/acebook-byteU)|A clone of Facebook built as a group project over two weeks.|Ruby, Rails, RSpec, HTML/CSS, Heroku, Rubocop, Tracis CI|
 
 
