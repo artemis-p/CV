@@ -8,9 +8,10 @@ I add value by being a people person and bring empathy and inclusivity in every 
 
 
 ## Projects
-### **_Projects currently working on_**
+### **_Personal projects_**
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+[Timer](https://github.com/artemis-p/JS-Timer)|A timer built in jQuery and Vanilla JS. Under construction|jQuery, JavasScript, Bootstrap, HTML, CSS|
 [Battleship v.2](https://github.com/artemis-p/JS-Battleship_v.2)|A new version of the Battleship game built with a MVC pattern|JavaScript, HTML, CSS|
 [Battleship](https://github.com/artemis-p/JS-Battleship)| A very simple game built in vanilla JS by using functions, alerts, 'while' loops and if/else statements| JavaScript
 [Rock, Paper, Scissors, Lizard, Spock](https://github.com/artemis-p/Rock_Paper_Scissor)| An individual challenge to demonstrate my knowledge in semantic HTML, CSS and JavaScript| HTML, CSS, JavaScript|
